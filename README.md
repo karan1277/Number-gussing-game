@@ -5,7 +5,6 @@
 ![Type](https://img.shields.io/badge/Application-Desktop-brightgreen)
 ![Difficulty](https://img.shields.io/badge/Level-Beginner--Friendly-blueviolet)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
-![License](https://img.shields.io/badge/License-Educational-lightgrey)
 
 ---
 
